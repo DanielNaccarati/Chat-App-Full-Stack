@@ -1,5 +1,4 @@
-# React-redux-socketio-chat
-
+# Chat App - Full Stack
 ![alt tag](ReadmeVideo.gif)
 
 ## Use Guide
